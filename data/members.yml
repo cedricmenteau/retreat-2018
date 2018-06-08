@@ -8,7 +8,7 @@ people:
     last_name: Benoit
     postion: Teacher
     city: London
-    avatar: '../images/members/.jpg'
+    avatar: '../images/members/alex-benoit.jpg'
   - first_name: Alice
     last_name: Clavel
     postion: Teacher
@@ -18,72 +18,72 @@ people:
     last_name: Morin
     postion: TA
     city: Paris
-    avatar: '../images/members/.jpg'
+    avatar: '../images/members/alice-morin.jpg'
   - first_name: Allen
     last_name: Sanchez
     postion: Driver
     city: Chengdu
-    avatar: '../images/members/.jpg'
+    avatar: '../images/members/allen-sanchez.jpg'
   - first_name: Ana
     last_name: Sere
     postion: Driver
     city: Brussels
-    avatar: '../images/members/.jpg'
+    avatar: '../images/members/ana-sere.jpg'
   - first_name: Antoine
     last_name: Ayoub
     postion: Driver
     city: Montréal
-    avatar: '../images/members/.jpg'
+    avatar: '../images/members/antoine-ayoub.jpg'
   - first_name: Arthur
     last_name: Littman
     postion: Teacher
     city: London
-    avatar: '../images/members/.jpg'
+    avatar: '../images/members/arthur-littman.jpg'
   - first_name: Benjamin
     last_name: Baranger
     postion: Teacher
     city: London
-    avatar: '../images/members/.jpg'
+    avatar: '../images/members/benjamin-baranger.jpg'
   - first_name: Benjamin
     last_name: Bignon
     postion: Sales B2B
     city: Paris
-    avatar: '../images/members/.jpg'
+    avatar: '../images/members/benjamin-bignon.jpg'
   - first_name: Bertrand
     last_name: Bussac
     postion: Driver
     city: Bordeaux
-    avatar: '../images/members/.jpg'
+    avatar: '../images/members/bertrand-bussac.jpg'
   - first_name: Boris
     last_name: Paillard
     postion: CEO
     city: Paris
-    avatar: '../images/members/.jpg'
+    avatar: '../images/members/boris-paillard.jpg'
   - first_name: Capucine
     last_name: Cusinberche
     postion: Business dev (B2U)
     city: Paris
-    avatar: '../images/members/.jpg'
+    avatar: '../images/members/capucine-cusinberche.jpg'
   - first_name: Cécile
     last_name: Veneziani
     postion: Teacher
     city: Paris
-    avatar: '../images/members/.jpg'
+    avatar: '../images/members/cecile-veneziani.jpg'
   - first_name: Cédric
     last_name: Menteau
     postion: Jack of all trades
     city: Paris
-    avatar: '../images/members/.jpg'
+    avatar: '../images/members/cedric-menteau.jpg'
   - first_name: Charles
     last_name: Pernet
     postion: Teacher
     city: Bordeaux
-    avatar: '../images/members/.jpg'
+    avatar: '../images/members/charles-pernet.jpg'
   - first_name: Claire
     last_name: Counilh
     postion: Yoga Teacher
     city: Paris
-    avatar: '../images/members/.jpg'
+    avatar: '../images/members/claire-counilh.jpg'
   - first_name: Clara
     last_name: Morgeneyer
     postion: Teacher
@@ -91,14 +91,14 @@ people:
     avatar: '../images/members/clara-morgen.jpg'
   - first_name: Clément
     last_name: Meyer
-    postion:
-    city:
-    avatar: '../images/members/.jpg'
+    postion: Teacher
+    city: Lille
+    avatar: '../images/members/clement-meyer.jpg'
   - first_name: Daniel
     last_name: Gordon
-    postion:
-    city:
-    avatar: '../images/members/.jpg'
+    postion: Teacher
+    city: Brussels
+    avatar: '../images/members/daniel-gordon.jpg'
   - first_name: Dimitri
     last_name: Bosch
     postion: Teacher
@@ -248,7 +248,7 @@ people:
     last_name: Ayoub
     postion: Driver
     city: Montréal
-    avatar: '../images/members/.jpg'
+    avatar: '../images/members/marie-gabrielle-ayoub.jpg'
   - first_name: Martin
     last_name: Giannakopoulos
     postion:

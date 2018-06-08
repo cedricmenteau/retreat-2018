@@ -54,20 +54,14 @@
 
 .pic {
   grid-area: pic;
-  width: 100%;
-  background-size: cover;
 }
 
-.small-pic-1 {
+.pic-xs-1 {
   grid-area: picsm1;
-  width: 100%;
-  background-size: cover;
 }
 
-.small-pic-2 {
+.pic-xs-2 {
   grid-area: picsm2;
-  width: 100%;
-  background-size: cover;
 }
 
 .names {
