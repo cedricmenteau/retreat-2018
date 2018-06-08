@@ -1,6 +1,6 @@
 .section-trombi {
   position: relative;
-  margin: 0 auto;
+  margin: 0 auto 160px;
   max-width: 960px;
 
   h3 {
@@ -20,6 +20,17 @@
       display: flex;
       margin: 10px 0;
       width: 33.33333%;
+
+      a {
+        min-width: 60px;
+        width: 60px;
+        border-radius: 50%;
+
+        .preview {
+          height: 60px !important;
+          width: 60px !important;
+        }
+      }
 
       img {
         height: 60px;

@@ -1,391 +1,401 @@
 people:
   - first_name: Alban
     last_name: Porcheron
-    postion: Teacher
+    position: Teacher
     city: Paris
-    avatar: '../images/members/alban_porcheron.jpg'
+    avatar: 'https://kitt.lewagon.com/placeholder/users/Aporcheron'
   - first_name: Alex
     last_name: Benoit
-    postion: Teacher
+    position: Teacher
     city: London
-    avatar: '../images/members/alex-benoit.jpg'
+    avatar: 'https://kitt.lewagon.com/placeholder/users/alex-benoit'
   - first_name: Alice
     last_name: Clavel
-    postion: Teacher
+    position: Teacher
     city: Berlin
-    avatar: '../images/members/alice-clavel.jpg'
+    avatar: 'https://kitt.lewagon.com/placeholder/users/aliceclv'
   - first_name: Alice
     last_name: Morin
-    postion: TA
+    position: TA
     city: Paris
-    avatar: '../images/members/alice-morin.jpg'
+    avatar: 'https://kitt.lewagon.com/placeholder/users/alicemomo'
   - first_name: Allen
     last_name: Sanchez
-    postion: Driver
+    position: Driver
     city: Chengdu
-    avatar: '../images/members/allen-sanchez.jpg'
+    avatar: 'https://kitt.lewagon.com/placeholder/users/allenjsx'
   - first_name: Ana
     last_name: Sere
-    postion: Driver
+    position: Driver
     city: Brussels
-    avatar: '../images/members/ana-sere.jpg'
+    avatar: 'https://kitt.lewagon.com/placeholder/users/AnaDaks'
   - first_name: Antoine
     last_name: Ayoub
-    postion: Driver
+    position: Driver
     city: Montréal
-    avatar: '../images/members/antoine-ayoub.jpg'
+    avatar: 'https://kitt.lewagon.com/placeholder/users/antoineayoub'
   - first_name: Arthur
     last_name: Littman
-    postion: Teacher
+    position: Teacher
     city: London
-    avatar: '../images/members/arthur-littman.jpg'
+    avatar: 'https://kitt.lewagon.com/placeholder/users/arthur-littm'
   - first_name: Benjamin
     last_name: Baranger
-    postion: Teacher
+    position: Teacher
     city: London
-    avatar: '../images/members/benjamin-baranger.jpg'
+    avatar: 'https://kitt.lewagon.com/placeholder/users/barangerbenjamin'
   - first_name: Benjamin
     last_name: Bignon
-    postion: Sales B2B
+    position: Sales B2B
     city: Paris
-    avatar: '../images/members/benjamin-bignon.jpg'
+    avatar: 'https://kitt.lewagon.com/placeholder/users/Benb1982'
   - first_name: Bertrand
     last_name: Bussac
-    postion: Driver
+    position: Driver
     city: Bordeaux
-    avatar: '../images/members/bertrand-bussac.jpg'
+    avatar: 'https://kitt.lewagon.com/placeholder/users/bertrandbussac'
   - first_name: Boris
     last_name: Paillard
-    postion: CEO
+    position: CEO
     city: Paris
-    avatar: '../images/members/boris-paillard.jpg'
+    avatar: 'https://kitt.lewagon.com/placeholder/users/Papillard'
   - first_name: Capucine
     last_name: Cusinberche
-    postion: Business dev (B2U)
+    position: Business dev (B2U)
     city: Paris
-    avatar: '../images/members/capucine-cusinberche.jpg'
+    avatar: 'https://kitt.lewagon.com/placeholder/users/CapucineC'
   - first_name: Cécile
     last_name: Veneziani
-    postion: Teacher
+    position: Teacher
     city: Paris
-    avatar: '../images/members/cecile-veneziani.jpg'
+    avatar: 'https://kitt.lewagon.com/placeholder/users/cveneziani'
   - first_name: Cédric
     last_name: Menteau
-    postion: Jack of all trades
+    position: Jack of all trades
     city: Paris
-    avatar: '../images/members/cedric-menteau.jpg'
+    avatar: 'https://kitt.lewagon.com/placeholder/users/cedricmenteau'
+  - first_name: Charly
+    last_name: Martin
+    position: Teacher
+    city: Paris
+    avatar: 'https://kitt.lewagon.com/placeholder/users/CharlyMartin'
   - first_name: Charles
     last_name: Pernet
-    postion: Teacher
+    position: Teacher
     city: Bordeaux
-    avatar: '../images/members/charles-pernet.jpg'
+    avatar: 'https://kitt.lewagon.com/placeholder/users/charlespernet'
   - first_name: Claire
     last_name: Counilh
-    postion: Yoga Teacher
+    position: Yoga Teacher
     city: Paris
-    avatar: '../images/members/claire-counilh.jpg'
+    avatar: 'https://kitt.lewagon.com/placeholder/users/clairecou'
   - first_name: Clara
     last_name: Morgeneyer
-    postion: Teacher
+    position: Teacher
     city: Berlin
-    avatar: '../images/members/clara-morgen.jpg'
+    avatar: 'https://kitt.lewagon.com/placeholder/users/ClaraMorgen'
   - first_name: Clément
     last_name: Meyer
-    postion: Teacher
+    position: Teacher
     city: Lille
-    avatar: '../images/members/clement-meyer.jpg'
+    avatar: 'https://kitt.lewagon.com/placeholder/users/Meyclem'
   - first_name: Daniel
     last_name: Gordon
-    postion: Teacher
+    position: Teacher
     city: Brussels
-    avatar: '../images/members/daniel-gordon.jpg'
+    avatar: 'https://kitt.lewagon.com/placeholder/users/DanielGordon1'
   - first_name: Dimitri
     last_name: Bosch
-    postion: Teacher
+    position: Teacher
     city: Berlin
-    avatar: '../images/members/dimitri-bosch.jpg'
+    avatar: 'https://kitt.lewagon.com/placeholder/users/db0sch'
   - first_name: Douglas
     last_name: Berkley
-    postion:
-    city:
-    avatar: '../images/members/.jpg'
+    position: Community manager
+    city: Tokyo
+    avatar: 'https://kitt.lewagon.com/placeholder/users/dmbf29'
   - first_name: Dounan
     last_name: Hu
-    postion: Teacher
+    position: Teacher
     city: Shanghai
-    avatar: '../images/members/.jpg'
+    avatar: 'https://kitt.lewagon.com/placeholder/users/dounan1'
   - first_name: Edouard
     last_name: Foussier
-    postion: Head of Community
+    position: Head of Community
     city: Paris
-    avatar: '../images/members/.jpg'
+    avatar: 'https://kitt.lewagon.com/placeholder/users/edouardfoussier'
   - first_name: Edward
     last_name: Schults
-    postion:
-    city:
-    avatar: '../images/members/.jpg'
+    position: Teacher
+    city: Paris
+    avatar: 'https://kitt.lewagon.com/placeholder/users/Eschults'
   - first_name: Edward
     last_name: Ward
-    postion: Driver
+    position: Driver
     city: London
-    avatar:
+    avatar: 'https://kitt.lewagon.com/placeholder/users/edwardjward'
   - first_name: Ellyn
     last_name: Bouscasse
-    postion:
-    city:
-    avatar: '../images/members/.jpg'
+    position: Teacher
+    city: Brussels
+    avatar: 'https://kitt.lewagon.com/placeholder/users/EllynBsc'
   - first_name: Emily
     last_name: Burns
-    postion: Marketing Assistant
+    position: Marketing Assistant
     city: Lisbon
-    avatar: '../images/members/.jpg'
+    avatar: 'https://kitt.lewagon.com/placeholder/users/emilykburns'
   - first_name: Emmanuel
     last_name: Louisy-Gabriel
-    postion: Filmer
+    position: Filmer
     city: Paris
-    avatar: '../images/members/.jpg'
+    avatar: 'https://kitt.lewagon.com/placeholder/users/ManyBaby'
   - first_name: Evan
     last_name: Thomas
-    postion:
-    city:
-    avatar: '../images/members/.jpg'
+    position: Teacher
+    city: London
+    avatar: 'https://kitt.lewagon.com/placeholder/users/Evanht'
   - first_name: Fernando
     last_name: Americano
-    postion: Driver
+    position: Driver
     city: Belo Horizonte
-    avatar: '../images/members/fernando-americano.jpg'
+    avatar: 'https://kitt.lewagon.com/placeholder/users/american0'
   - first_name: Francesco
     last_name: Ecclesie
-    postion: Driver
+    position: Driver
     city: Milan
-    avatar: '../images/members/.jpg'
+    avatar: 'https://kitt.lewagon.com/placeholder/users/fra0074'
   - first_name: Gabriel
     last_name: de Vareilles
-    postion:
-    city:
-    avatar: '../images/members/.jpg'
+    position: Teacher
+    city: Lille
+    avatar: 'https://kitt.lewagon.com/placeholder/users/GabrielVareilles'
   - first_name: Gabriel
     last_name: Dehan
-    postion: Teacher
+    position: Teacher
     city: Paris
-    avatar: '../images/members/.jpg'
+    avatar: 'https://kitt.lewagon.com/placeholder/users/gabriel-dehan'
   - first_name: Germain
     last_name: Loret
-    postion: Teacher
+    position: Teacher
     city: Paris
-    avatar: '../images/members/.jpg'
+    avatar: 'https://kitt.lewagon.com/placeholder/users/grmnlrt'
   - first_name: Guillaume
     last_name: Cabanel
-    postion:
-    city:
-    avatar: '../images/members/.jpg'
+    position: Teacher
+    city: Nantes
+    avatar: 'https://kitt.lewagon.com/placeholder/users/guillaumecabanel'
   - first_name: Guillaume
     last_name: Morin
-    postion: CFO
+    position: CFO
     city: Paris
-    avatar: '../images/members/.jpg'
+    avatar: 'https://kitt.lewagon.com/placeholder/users/windguimo'
   - first_name: Guillaume
     last_name: Schwaederle
-    postion:
-    city:
-    avatar: '../images/members/.jpg'
+    position: Co-Driver
+    city: Montréal
+    avatar: 'https://kitt.lewagon.com/placeholder/users/guillaumeschwaederle'
   - first_name: Hadrien
-    last_name: Martinge
-    postion:
-    city:
-    avatar: '../images/members/.jpg'
+    last_name: Matringe
+    position: Driver
+    city: Copenhagen
+    avatar: 'https://kitt.lewagon.com/placeholder/users/hmatringe'
   - first_name: Hanae
     last_name: Bezad
-    postion: Driver
-    city:
-    avatar: '../images/members/.jpg'
+    position: Driver
+    city: Casablanca
+    avatar: 'https://kitt.lewagon.com/placeholder/users/Beehane'
   - first_name: Jamie
     last_name: Walden
-    postion: Business dev (B2U)
+    position: Business dev (B2U)
     city: London
-    avatar: '../images/members/.jpg'
+    avatar: 'https://kitt.lewagon.com/placeholder/users/chip1111'
   - first_name: Jessica
     last_name: Scianimanica
-    postion: Marketing Assistant
+    position: Marketing Assistant
     city: London
-    avatar:
+    avatar: 'https://kitt.lewagon.com/placeholder/users/Jessicasciani'
   - first_name: Joseph
     last_name: Blanchard
-    postion:
-    city:
-    avatar: '../images/members/.jpg'
+    position: Teacher
+    city: Lyon
+    avatar: 'https://kitt.lewagon.com/placeholder/users/jpheos'
   - first_name: Julien
     last_name: Da Silva
-    postion: Teacher
+    position: Teacher
     city: Paris
-    avatar: '../images/members/.jpg'
+    avatar: 'https://kitt.lewagon.com/placeholder/users/juliends'
+  - first_name: Juliette
+    last_name: Sanson
+    position: Guest
+    city: Paris
+    avatar: '../images/members/juliette-sanson.jpg'
   - first_name: Karine
     last_name: Bialobroda
-    postion: Teacher
+    position: Teacher
     city: Paris
-    avatar: '../images/members/.jpg'
+    avatar: 'https://kitt.lewagon.com/placeholder/users/Karine03'
   - first_name: Kévin
     last_name: Chavanne
-    postion: Teacher
+    position: Teacher
     city: Lyon
-    avatar: '../images/members/.jpg'
+    avatar: 'https://kitt.lewagon.com/placeholder/users/kevcha'
   - first_name: Kevin
     last_name: Robert
-    postion: Teacher
+    position: Teacher
     city: Paris
-    avatar: '../images/members/.jpg'
+    avatar: 'https://kitt.lewagon.com/placeholder/users/krokrob'
   - first_name: Killian
     last_name: Avocat-Benan
-    postion: Marketing Assistant
+    position: Marketing Assistant
     city: Marseille
-    avatar: '../images/members/.jpg'
+    avatar: 'https://kitt.lewagon.com/placeholder/users/KillianAB'
   - first_name: Margo
     last_name: Tinawi
-    postion: Teacher
+    position: Teacher
     city: Brussels
-    avatar: '../images/members/.jpg'
+    avatar: 'https://kitt.lewagon.com/placeholder/users/Margotte'
   - first_name: Marie-Gabrielle
     last_name: Ayoub
-    postion: Driver
+    position: Driver
     city: Montréal
-    avatar: '../images/members/marie-gabrielle-ayoub.jpg'
+    avatar: 'https://kitt.lewagon.com/placeholder/users/mariegabrielle'
   - first_name: Martin
     last_name: Giannakopoulos
-    postion:
-    city:
-    avatar: '../images/members/.jpg'
+    position: Teacher
+    city: Montréal
+    avatar: 'https://kitt.lewagon.com/placeholder/users/Martin-Alexander'
   - first_name: Mathieu
     last_name: Bonfils
-    postion:
-    city:
-    avatar: '../images/members/.jpg'
+    position: Driver
+    city: Marseille
+    avatar: 'https://kitt.lewagon.com/placeholder/users/mathieub13'
   - first_name: Mathieu
     last_name: Le Roux
-    postion:
-    city:
-    avatar: '../images/members/.jpg'
+    position: Driver
+    city: Saõ Paulo
+    avatar: 'https://kitt.lewagon.com/placeholder/users/matleroux'
   - first_name: Matthieu
-    last_name: Cartillier
-    postion:
-    city:
-    avatar: '../images/members/.jpg'
+    last_name: Cartiller
+    position: Driver
+    city: Lyon
+    avatar: 'https://kitt.lewagon.com/placeholder/users/cartosnet'
   - first_name: Morgan
     last_name: Di Via
-    postion:
-    city:
-    avatar: '../images/members/.jpg'
+    position: Community manager
+    city: Marseille
+    avatar: 'https://kitt.lewagon.com/placeholder/users/MorganDiVia'
   - first_name: Nicolas
     last_name: Feer
-    postion:
-    city:
-    avatar: '../images/members/.jpg'
+    position: Driver
+    city: Copenhagen
+    avatar: 'https://kitt.lewagon.com/placeholder/users/atmosfeer'
   - first_name: Nicolas
     last_name: Filzi
-    postion:
-    city:
-    avatar: '../images/members/.jpg'
+    position: Teacher
+    city: Nantes
+    avatar: 'https://kitt.lewagon.com/placeholder/users/nfilzi'
   - first_name: Paul
     last_name: Gaumer
-    postion:
-    city:
-    avatar: '../images/members/.jpg'
+    position: Driver
+    city: Tokyo
+    avatar: 'https://kitt.lewagon.com/placeholder/users/paulgaumer'
   - first_name: Pauline
     last_name: Gaget
-    postion:
-    city:
-    avatar: '../images/members/.jpg'
+    position: Teacher
+    city: Paris
+    avatar: 'https://kitt.lewagon.com/placeholder/users/Lupiane'
   - first_name: Phelim
     last_name: Dunleavy
-    postion:
-    city:
-    avatar: '../images/members/.jpg'
+    position: Teacher
+    city: London
+    avatar: 'https://kitt.lewagon.com/placeholder/users/pdunleav'
   - first_name: Philipp
     last_name: von Hammerstein
-    postion:
-    city:
-    avatar: '../images/members/.jpg'
+    position: Driver
+    city: Berlin
+    avatar: 'https://kitt.lewagon.com/placeholder/users/PhilippvH1'
   - first_name: Pierre
     last_name: Bedouelle
-    postion:
-    city:
-    avatar: '../images/members/.jpg'
+    position: All things marketing
+    city: Marseille
+    avatar: 'https://kitt.lewagon.com/placeholder/users/PierreBedouelle'
   - first_name: Pierre
     last_name: Facq
-    postion:
-    city:
-    avatar: '../images/members/.jpg'
+    position: Driver
+    city: Nantes
+    avatar: 'https://kitt.lewagon.com/placeholder/users/Pedrolane'
   - first_name: Rabea
     last_name: Bader
-    postion:
-    city:
-    avatar: '../images/members/.jpg'
+    position: Driver
+    city: Tel Aviv
+    avatar: 'https://kitt.lewagon.com/placeholder/users/bdr193'
   - first_name: Rébecca
     last_name: Ménat
-    postion:
-    city:
-    avatar: '../images/members/.jpg'
+    position: CMO
+    city: Paris
+    avatar: 'https://kitt.lewagon.com/placeholder/users/rebrebm'
   - first_name: Richard
     last_name: O'Grady
-    postion: Head of Marketing Automation
+    position: Head of Marketing Automation
     city: Berlin
-    avatar: '../images/members/rich-ogrady.jpg'
+    avatar: 'https://kitt.lewagon.com/placeholder/users/rjogrady21'
   - first_name: Romain
     last_name: Paillard
-    postion:
-    city:
-    avatar: '../images/members/.jpg'
+    position: COO
+    city: Paris
+    avatar: 'https://kitt.lewagon.com/placeholder/users/monsieurpaillard'
   - first_name: Sandrine
     last_name: Ayral
-    postion:
-    city:
-    avatar: '../images/members/.jpg'
+    position: Teacher
+    city: London
+    avatar: 'https://kitt.lewagon.com/placeholder/users/sandrineay'
   - first_name: Sébastien
     last_name: Saunier
-    postion:
-    city:
-    avatar: '../images/members/.jpg'
+    position: CTO
+    city: Paris
+    avatar: 'https://kitt.lewagon.com/placeholder/users/ssaunier'
   - first_name: Shannon
     last_name: Graybill
-    postion: Driver
+    position: Driver
     city: Lisbon
-    avatar: '../images/members/.jpg'
+    avatar: 'https://kitt.lewagon.com/placeholder/users/graysdays'
   - first_name: Sylvain
     last_name: Peigney
-    postion:
-    city:
-    avatar: '../images/members/.jpg'
+    position: Teacher
+    city: Bordeaux
+    avatar: 'https://kitt.lewagon.com/placeholder/users/volpeo'
   - first_name: Tatiana
     last_name: Perillo
-    postion:
-    city:
-    avatar: '../images/members/.jpg'
+    position: Head of Talent
+    city: Paris
+    avatar: 'https://kitt.lewagon.com/placeholder/users/Tatianaprl'
   - first_name: Thibault
     last_name: Genaitay
-    postion: Driver
-    city:
-    avatar: '../images/members/.jpg'
+    position: Driver
+    city: Shanghai
+    avatar: 'https://kitt.lewagon.com/placeholder/users/tgenaitay'
   - first_name: Thibault
     last_name: Pedelhez
-    postion: Business dev (B2U)
+    position: Business dev (B2U)
     city: Paris
-    avatar: '../images/members/.jpg'
+    avatar: 'https://kitt.lewagon.com/placeholder/users/TPedelhez'
   - first_name: Thomas
     last_name: Blanchet
-    postion: Office Manager
+    position: Office Manager
     city: Paris
-    avatar: '../images/members/.jpg'
+    avatar: '../images/members/thomas-blanchet.jpg'
   - first_name: Yann
     last_name: Irbah
-    postion:
-    city:
-    avatar: '../images/members/.jpg'
+    position: Teacher
+    city: Lille
+    avatar: 'https://kitt.lewagon.com/placeholder/users/l0ck3'
   - first_name: Yoann
     last_name: Saunier
-    postion: Music Producer
+    position: Music Producer
     city: Paris
-    avatar: '../images/members/.jpg'
+    avatar: '../images/members/yoann-saunier.jpg'
   - first_name: Zakarya
     last_name: Kartti
-    postion: Teacher
+    position: Teacher
     city: Casablanca
-    avatar: '../images/members/.jpg'
+    avatar: 'https://kitt.lewagon.com/placeholder/users/zakaryaa'

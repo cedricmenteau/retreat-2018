@@ -8,10 +8,12 @@
           <% data.members.people.each do |p| %>
             <% if p.city == city %>
               <li>
-                <%= image_tag p.avatar %>
+                <a href="<%= image_path p.avatar %>" class="progressive replace">
+                  <img src="" class="preview" />
+                </a>
                 <div class="details">
                   <span><strong><%= p.first_name %></strong> <%= p.last_name %></span>
-                  <i><%= p.postion %></i>
+                  <i><%= p.position %></i>
                 </div>
             <% end %>
           <% end %>
