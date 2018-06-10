@@ -105,20 +105,20 @@ function initMap() {
     ]
   });
 
-  var infoWindow = new google.maps.InfoWindow();
+
+  var infoWin = new google.maps.InfoWindow();
+  var labels = '123456';
+
   var markers = locations.map(function(location, i) {
-    var marker =  new google.maps.Marker({
-      map: map,
+    var marker = new google.maps.Marker({
       position: {lat: location[1], lng: location[2]},
-      label: location[0],
-      title: location[0]
+      label: labels[i % labels.length]
     });
 
-    marker.addListener(marker, 'click', function(e) {
-      infoWindow.setContent(location[0]);
-      infoWindow.open(map, marker);
+    google.maps.event.addListener(marker, 'click', function(evt) {
+      infoWin.setContent(location[0]);
+      infoWin.open(map, marker);
     })
-
     return marker;
   });
 
@@ -128,19 +128,10 @@ function initMap() {
 };
 
 var locations = [
-  ['1 - Chez DarMa', 31.514000, -9.765500, 1],
-  ['2 - Dar Nafoura', 31.514064, -9.767120, 2],
-  ['3 - Anaissouira', 31.515030, -9.771138, 3],
-  ['4 - Lalla Zina', 31.512787, -9.767707, 4],
-  ['5 - Le Consulat', 31.515364, -9.771094, 5],
-  ["6 - L'étoile d'Essaouira", 31.514818, -9.769709, 6]
+  ["<h2>Chez DarMa</h2><br><a href='#chezdarma'>See who's in</a><br><hr><address>234 rue Chbanate,<br>Essaouira 44000, Morocco</address>", 31.514000, -9.765500, 1],
+  ["<h2>Dar Nafoura</h2><br><a href='#darnafoura'>See who's in</a><br><hr><address>30 rue Ibn Khaldoun,<br>Essaouira 44000, Morocco</address>", 31.514064, -9.767120, 2],
+  ["<h2>Anaissouira</h2><br><a href='#anaissouira'>See who's in</a><br><hr><address>30 rue Sidi Ali Ben Daoud,<br>Essaouira 44000, Morocco</address>", 31.515030, -9.771138, 3],
+  ["<h2>Lalla Zina</h2><br><a href='#lallazina'>See who's in</a><br><hr><address>17 Rue d'Agadir,<br>Essaouira 44000, Morocco</address>", 31.512787, -9.767707, 4],
+  ["<h2>Le Consultat</h2><br><a href='#leconsulat'>See who's in</a><br><hr><address>74 rue Touahen,<br>Essaouira 44000, Morocco</address>", 31.515364, -9.771094, 5],
+  ["<h2>L'étoile d'Essaouira</h2><br><a href='#etoileessaouira'>See who's in</a><br><hr><address>234 rue Chbanate,<br>Essaouira 44000, Morocco</address>", 31.514818, -9.769709, 6]
 ];
-
-// var locations = [
-//   {lat: 31.514000, lng: -9.765500},
-//   {lat: 31.514064, lng: -9.767120},
-//   {lat: 31.515030, lng: -9.771138},
-//   {lat: 31.512787, lng: -9.767707},
-//   {lat: 31.515364, lng: -9.771094},
-//   {lat: 31.514818, lng: -9.769709}
-// ];
