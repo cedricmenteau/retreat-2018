@@ -1,1 +1,0 @@
-document.querySelector(".expend").addEventListener("click",function(){const e=document.getElementById("agenda");document.querySelector(".full-agenda")?e.classList.remove("full-agenda"):e.classList.add("full-agenda")});
