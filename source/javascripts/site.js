@@ -129,9 +129,9 @@ function initMap() {
 
 var locations = [
   ["<h2>Chez DarMa</h2><br><a href='#chezdarma'>See who's in</a><br><hr><address>234 rue Chbanate,<br>Essaouira 44000, Morocco</address>", 31.514000, -9.765500, 1],
-  ["<h2>Dar Nafoura</h2><br><a href='#darnafoura'>See who's in</a><br><hr><address>30 rue Ibn Khaldoun,<br>Essaouira 44000, Morocco</address>", 31.514064, -9.767120, 2],
-  ["<h2>Anaissouira</h2><br><a href='#anaissouira'>See who's in</a><br><hr><address>30 rue Sidi Ali Ben Daoud,<br>Essaouira 44000, Morocco</address>", 31.515030, -9.771138, 3],
+  ["<h2>Dar Nafoura</h2><br><a href='#darnafoura'>See who's in</a><br><hr><address>30 rue Ibn Khaldoun,<br>Essaouira 44000, Morocco</address>", 31.513972, -9.767098, 2],
+  ["<h2>Anaissouira</h2><br><a href='#anaissouira'>See who's in</a><br><hr><address>30 rue Sidi Ali Ben Daoud,<br>Essaouira 44000, Morocco</address>", 31.514818, -9.771190, 3],
   ["<h2>Lalla Zina</h2><br><a href='#lallazina'>See who's in</a><br><hr><address>17 Rue d'Agadir,<br>Essaouira 44000, Morocco</address>", 31.512787, -9.767707, 4],
-  ["<h2>Le Consultat</h2><br><a href='#leconsulat'>See who's in</a><br><hr><address>74 rue Touahen,<br>Essaouira 44000, Morocco</address>", 31.515364, -9.771094, 5],
-  ["<h2>L'étoile d'Essaouira</h2><br><a href='#etoileessaouira'>See who's in</a><br><hr><address>234 rue Chbanate,<br>Essaouira 44000, Morocco</address>", 31.514818, -9.769709, 6]
+  ["<h2>Le Consultat</h2><br><a href='#leconsulat'>See who's in</a><br><hr><address>74 rue Touahen,<br>Essaouira 44000, Morocco</address>", 31.515115, -9.771098, 5],
+  ["<h2>L'étoile d'Essaouira</h2><br><a href='#etoileessaouira'>See who's in</a><br><hr><address>2 rue qadisiya,<br>Essaouira 44000, Morocco</address>",31.514703, -9.770015, 6]
 ];
