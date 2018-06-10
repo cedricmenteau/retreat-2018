@@ -7,7 +7,7 @@
           content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <!-- Use the title from a page's frontmatter if it has one -->
     <title>Le Wagon - World Retreat 2018</title>
-    <link href="stylesheets/site-11f1cb4b.css" rel="stylesheet" />
+    <link href="stylesheets/site-c4d6a952.css" rel="stylesheet" />
   </head>
   <body class="wrapper">
     <header>
@@ -206,8 +206,13 @@
   <section class="section-accomodations">
   <h2 class="section-title" style="left: -133px; top: 50px; margin: 0;">Riads</h2>
 
+
+
+  <div id='map' style='height:440px;width:100%;'></div>
+
+
   <!-- Riad - Chez Darma -->
-  <div class="riad-left">
+  <div class="riad-left" id="chezdarma">
     <div class="pic grid-picture">
       <a href="images/chez-darma-2-29881df0.jpg" class="progressive replace">
         <img src="" class="preview" />
@@ -250,7 +255,7 @@
   </div>
 
   <!-- Riad - Dar Nafoura -->
-  <div class="riad-right">
+  <div class="riad-right" id="darnafoura">
     <div class="pic grid-picture">
       <a href="images/dar_nafoura_1-b5b49e59.jpg" class="progressive replace">
         <img src="" class="preview" />
@@ -300,7 +305,7 @@
   </div>
 
   <!-- Riad - Anaissouira -->
-  <div class="riad-left">
+  <div class="riad-left" id="anaissouira">
     <div class="pic grid-picture">
       <a href="images/anaissouira-3-8b232586.jpg" class="progressive replace">
         <img src="" class="preview" />
@@ -339,7 +344,7 @@
   </div>
 
   <!-- Riad - Lalla Zina -->
-  <div class="riad-right">
+  <div class="riad-right" id="lallazina">
     <div class="pic grid-picture">
       <a href="images/lalla-zina-1-0fa9a796.jpg" class="progressive replace">
         <img src="" class="preview" />
@@ -384,7 +389,7 @@
   </div>
 
   <!-- Riad - Le Consulat -->
-  <div class="riad-left">
+  <div class="riad-left" id="leconsultat">
     <div class="pic grid-picture">
       <a href="images/le-consulat-1-01fe9b70.jpg" class="progressive replace">
         <img src="" class="preview" />
@@ -424,7 +429,7 @@
   </div>
 
   <!-- Riad - L'étoile d'Essaouira -->
-  <div class="riad-right-long">
+  <div class="riad-right-long" id="etoileessaouira">
     <div class="pic grid-picture">
       <a href="images/etoile-essaouira-1-cbc3a747.jpg" class="progressive replace">
         <img src="" class="preview" />
@@ -1136,7 +1141,9 @@
     </div>
   </section>
 </main>
-    <script src="javascripts/site-b10e6751.js"></script>
+    <script src="javascripts/site-cc745128.js"></script>
     <script src="javascripts/progressive-image-f70f7978.js"></script>
+    <script src="https://developers.google.com/maps/documentation/javascript/examples/markerclusterer/markerclusterer.js"></script>
+    <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAWKncoyyJ5ffCrxghBR2JwpTCsAcl8qhA&callback=initMap" type="text/javascript"></script>
   </body>
 </html>
