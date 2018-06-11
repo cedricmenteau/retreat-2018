@@ -1,7 +1,7 @@
 header {
   display: grid;
   max-width: 1280px;
-  grid-template-columns: 1fr minmax(max-content, 1fr) 1fr 1fr 1fr 1fr 1fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
   grid-template-rows: 160px 160px 160px 160px 80px;
   grid-template-areas:
     ". . . . . third . ."
