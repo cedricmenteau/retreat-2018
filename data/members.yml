@@ -85,6 +85,11 @@ people:
     city: Bordeaux
     avatar: 'https://kitt.lewagon.com/placeholder/users/charlespernet'
   - first_name: Claire
+    last_name: Antoine
+    position: Teacher
+    city: Casablanca
+    avatar: 'https://kitt.lewagon.com/placeholder/users/cantoine85'
+  - first_name: Claire
     last_name: Counilh
     position: Yoga Teacher
     city: Paris
