@@ -39,6 +39,15 @@ h2.section-title {
   opacity: 1;
   text-transform: uppercase;
   font-size: 66px;
+
+  @media (max-width: 520px) {
+    position: relative;
+    transform: rotate(0deg);
+    font-size: 32px;
+    margin: 30px 0 0px;
+    left: 0 !important;
+    top: 0 !important;
+  }
 }
 
 ul {
@@ -62,6 +71,11 @@ ul {
     border-left: 1px solid #e8e8e8;
     background: repeating-linear-gradient( -90deg, #e8e8e8, #e8e8e8 1px, #F6EEE1 1px, #F6EEE1 12.5%)
   }
+
+  @media (max-width: 520px) {
+    box-sizing: border-box;
+    margin: 0 20px;
+  }
 }
 
 .warning {
@@ -71,8 +85,18 @@ ul {
   font-size: 18px;
   background: #e8ddcd;
 
+  @media (max-width: 520px) {
+    margin-top: 30px !important;
+    padding: 10px;
+    text-align: center;
+  }
+
   span {
     margin-right: 10px;
     font-size: 22px;
+
+    @media (max-width: 720px) {
+      display: none;
+    }
   }
 }

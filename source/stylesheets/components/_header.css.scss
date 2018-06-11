@@ -11,21 +11,26 @@ header {
     ". . . . . . . . ";
 
   @media (max-width: 720px) {
-    grid-template-areas:
-      "logo . . . . . . ."
-      ". cover cover cover cover cover cover . "
-      ". cover cover cover cover cover cover date "
-      ". title title title title title . ."
-      ". . . . . . . . ";
+    display: flex;
+    flex-direction: column;
   }
 }
 
 .item-a {
   grid-area: cover;
+
+  @media (max-width: 720px) {
+    margin-top: 20px;
+    height: 235px;
+  }
 }
 
 .item-b {
   grid-area: pic;
+
+  @media (max-width: 720px) {
+    display: none;
+  }
 }
 
 .item-c {
@@ -37,11 +42,27 @@ header {
     padding: 20px;
     top: 0;
     max-width: 120px;
+
+    @media (max-width: 720px) {
+      max-width: 100px;
+      right: 25px;
+      top: -69px;
+    }
+
+    @media (max-width: 320px) {
+      max-width: 90px;
+      right: -6px;
+      top: -59px;
+    }
   }
 }
 
 .item-d {
   grid-area: second;
+
+  @media (max-width: 720px) {
+    display: none;
+  }
 }
 
 .item-e {
@@ -55,6 +76,16 @@ header {
     font-size: 42px;
     text-align: left;
     color: white;
+
+    @media (max-width: 720px) {
+      padding: 20px 0;
+      width: auto;
+      font-size: 32px;
+    }
+
+    @media (max-width: 320px) {
+      font-size: 30px;
+    }
 
     span {
       background: #333;
@@ -70,6 +101,10 @@ header {
 
 .item-f {
   grid-area: third;
+
+  @media (max-width: 720px) {
+    display: none;
+  }
 }
 
 .item-g {
@@ -86,5 +121,9 @@ header {
     font-weight: 200;
     font-style: normal;
     box-sizing: border-box;
+
+    @media (max-width: 720px) {
+      padding: 10px 0;
+    }
   }
 }

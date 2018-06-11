@@ -21,6 +21,11 @@
     ". picsm2 names names names .";
   margin-bottom: 80px;
 
+  @media (max-width: 520px) {
+    display: flex;
+    flex-direction: column;
+  }
+
   li {
     width: 50%;
   }
@@ -35,7 +40,12 @@
     "names names names names pic pic"
     "names names names names pic pic"
     ". . . picsm2 . .";
-   margin-bottom: 80px;
+  margin-bottom: 80px;
+
+  @media (max-width: 520px) {
+    display: flex;
+    flex-direction: column;
+  }
 
   li {
     width: 33.33333%;
@@ -51,7 +61,12 @@
     "pic pic names names names ."
     "pic pic names names names ."
     ". . names names names picsm2";
-   margin-bottom: 80px;
+  margin-bottom: 80px;
+
+  @media (max-width: 520px) {
+    display: flex;
+    flex-direction: column;
+  }
 
   li {
     width: 50%;
@@ -60,14 +75,26 @@
 
 .pic {
   grid-area: pic;
+
+  @media (max-width: 520px) {
+    height: 188px;
+  }
 }
 
 .pic-xs-1 {
   grid-area: picsm1;
+
+  @media (max-width: 520px) {
+    display: none;
+  }
 }
 
 .pic-xs-2 {
   grid-area: picsm2;
+
+  @media (max-width: 520px) {
+    display: none;
+  }
 }
 
 .names {
@@ -90,6 +117,10 @@
     li {
       font-size: 16px;
       margin-bottom: 10px;
+
+      @media (max-width: 520px) {
+        width: 100%;
+      }
     }
   }
 }
@@ -110,6 +141,13 @@
     font-size: 27px;
     text-align: left;
     color: white;
+
+    @media (max-width: 520px) {
+      position: relative;
+      width: auto;
+      margin-bottom: -20px;
+      top: -40px;
+    }
 
     span {
       background: #333;
