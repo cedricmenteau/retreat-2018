@@ -63,3 +63,16 @@ ul {
     background: repeating-linear-gradient( -90deg, #e8e8e8, #e8e8e8 1px, #F6EEE1 1px, #F6EEE1 12.5%)
   }
 }
+
+.warning {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 18px;
+  background: #e8ddcd;
+
+  span {
+    margin-right: 10px;
+    font-size: 22px;
+  }
+}

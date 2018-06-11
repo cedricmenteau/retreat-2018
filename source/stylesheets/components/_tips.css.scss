@@ -1,0 +1,29 @@
+section.tips {
+  margin: 0 auto 60px;
+  max-width: 960px;
+
+  .tips-wrapper {
+    display: flex;
+    width: 100%;
+  }
+
+  .tips-category {
+    width: 45%;
+
+    li {
+      margin-bottom: 20px;
+    }
+  }
+
+  .tips-category:nth-child(even) {
+    margin-left: 5%;
+  }
+
+  .tips-category:nth-child(odd) {
+    margin-right: 5%;
+  }
+}
+
+section.content {
+  margin-bottom: 90px;
+}
