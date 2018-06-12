@@ -5,10 +5,38 @@
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <meta name="viewport"
           content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
     <!-- Use the title from a page's frontmatter if it has one -->
-    <title><%= current_page.data.title || "Middleman" %></title>
+    <title><%= current_page.data.title || "Le Wagon World Retreat" %></title>
+    <meta name="description" content="<%= current_page.data.description %>">
+
+    <!-- Favicons -->
+    <link rel="shortcut icon" type="image/png" href="<%= image_path '../images/favicon.ico' %>">
+
+    <!-- Open Graph FB -->
+    <meta property="og:title" content="<%= current_page.data.title %>">
+    <meta property="og:type" content="website">
+    <meta property="og:description" content="<%= current_page.data.description %>">
+    <meta property="og:url" content="https://retreat.lewagon.com">
+    <meta property="og:image" content="<%= image_path '../images/meta.jpg' %>"/>
+    <meta property="og:site_name" content="https://retreat.lewagon.com">
+
+    <!-- Twitter card data -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@lemangotree">
+    <meta name="twitter:title" content="<%= current_page.data.title || 'Le Wagon World Retreat' %>">
+    <meta name="twitter:description" content="<%= current_page.data.description %>">
+    <meta name="twitter:creator" content="@lewagonparis">
+    <meta name="twitter:image:src" content="<%= image_path '../images/meta.jpg' %>">
+
+    <!-- Schema.org markup for Google+ -->
+    <meta itemprop="name" content="<%= current_page.data.title || 'Le Wagon World Retreat' %>">
+    <meta itemprop="description" content="<%= current_page.data.description %>">
+    <meta itemprop="image" content="<%= image_path '../images/meta.jpg' %>">
+
     <%= stylesheet_link_tag "site" %>
   </head>
+
   <body class="wrapper">
     <%= yield %>
     <%= javascript_include_tag "site" %>
