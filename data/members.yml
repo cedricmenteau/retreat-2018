@@ -84,6 +84,11 @@ people:
     position: Teacher
     city: Bordeaux
     avatar: 'https://kitt.lewagon.com/placeholder/users/charlespernet'
+  - first_name: Chloé
+    last_name: Beauchet
+    position: Sales and Communication lead
+    city: Marseille
+    avatar: 'https://kitt.lewagon.com/placeholder/users/Chlobct'
   - first_name: Claire
     last_name: Antoine
     position: Teacher
@@ -154,11 +159,6 @@ people:
     position: Filmer
     city: Paris
     avatar: 'https://kitt.lewagon.com/placeholder/users/ManyBaby'
-  - first_name: Evan
-    last_name: Thomas
-    position: Teacher
-    city: London
-    avatar: 'https://kitt.lewagon.com/placeholder/users/Evanht'
   - first_name: Fernando
     last_name: Americano
     position: Driver
@@ -284,11 +284,6 @@ people:
     position: Driver
     city: Lyon
     avatar: 'https://kitt.lewagon.com/placeholder/users/cartosnet'
-  - first_name: Morgan
-    last_name: Di Via
-    position: Community manager
-    city: Marseille
-    avatar: 'https://kitt.lewagon.com/placeholder/users/MorganDiVia'
   - first_name: Nicolas
     last_name: Feer
     position: Driver
@@ -319,11 +314,6 @@ people:
     position: Driver
     city: Berlin
     avatar: 'https://kitt.lewagon.com/placeholder/users/PhilippvH1'
-  - first_name: Pierre
-    last_name: Bedouelle
-    position: All things marketing
-    city: Marseille
-    avatar: 'https://kitt.lewagon.com/placeholder/users/PierreBedouelle'
   - first_name: Pierre
     last_name: Facq
     position: Driver
