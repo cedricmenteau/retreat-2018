@@ -229,11 +229,6 @@ people:
     position: Teacher
     city: Paris
     avatar: 'https://kitt.lewagon.com/placeholder/users/juliends'
-  - first_name: Juliette
-    last_name: Sanson
-    position: Guest
-    city: Paris
-    avatar: '../images/members/juliette-sanson.jpg'
   - first_name: Karine
     last_name: Bialobroda
     position: Teacher
