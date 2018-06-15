@@ -249,6 +249,11 @@ people:
     position: Marketing Assistant
     city: Marseille
     avatar: 'https://kitt.lewagon.com/placeholder/users/KillianAB'
+  - first_name: Léa
+    last_name: Woittequand
+    position: Marketing Manager
+    city: Lille
+    avatar: 'https://kitt.lewagon.com/placeholder/users/LeaWoittequand'
   - first_name: Margo
     last_name: Tinawi
     position: Teacher
