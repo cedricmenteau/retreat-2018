@@ -90,11 +90,6 @@ people:
     city: Marseille
     avatar: 'https://kitt.lewagon.com/placeholder/users/Chlobct'
   - first_name: Claire
-    last_name: Antoine
-    position: Teacher
-    city: Casablanca
-    avatar: 'https://kitt.lewagon.com/placeholder/users/cantoine85'
-  - first_name: Claire
     last_name: Counilh
     position: Yoga Teacher
     city: Paris
@@ -384,6 +379,11 @@ people:
     position: Teacher
     city: Lille
     avatar: 'https://kitt.lewagon.com/placeholder/users/l0ck3'
+  - first_name: Yassine
+    last_name: El Abbassi
+    position: Teacher
+    city: Casablanca
+    avatar: 'https://kitt.lewagon.com/placeholder/users/chachine'
   - first_name: Yoann
     last_name: Saunier
     position: Music Producer
